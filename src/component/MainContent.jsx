@@ -11,7 +11,7 @@ export default function () {
         <button>Get started</button>
       </div>
       <div>
-        <img src="./src/assets/rocket.png" alt="rocket" />
+        <img src="/src/assets/rocket.png" alt="rocket" />
       </div>
     </main>
   );
