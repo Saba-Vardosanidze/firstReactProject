@@ -1,0 +1,34 @@
+main {
+  display: flex;
+  max-width: 1300px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin: 110px auto;
+  margin-bottom: 110px;
+}
+main .hyperSquadContainer h2 {
+  font-weight: bold;
+  font-size: 82px;
+  color: #ffffff;
+}
+main .hyperSquadContainer p {
+  font-size: 22px;
+  width: 470px;
+  color: #d6d8de;
+  margin: 38px 0px 70px;
+  line-height: 30px;
+}
+main .hyperSquadContainer button {
+  width: 200px;
+  height: 50px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  cursor: pointer;
+  background-color: #ffffff;
+  transition: 300ms;
+}
+main .hyperSquadContainer button:hover {
+  background-color: bisque;
+}
